@@ -1,0 +1,5 @@
+{
+  "name": "Hallucination Detector Gen",
+  "description": "生成基于 Python 的幻觉检测项目，并使用 Gemini API 模拟检测逻辑的工作台。",
+  "requestFramePermissions": []
+}
